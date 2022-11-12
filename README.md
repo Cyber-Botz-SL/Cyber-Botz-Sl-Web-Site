@@ -4,6 +4,8 @@ Our new Webpage Is Open
 
 * Visit Cyber Botz Webpage [Click Here](https://cyber-bot-industry-web-page.on.drv.tw/Cyber-Botz/)
 
+# Same Web SZRose Bot web
+
 ## Most Used Languages
 
 - HTML
